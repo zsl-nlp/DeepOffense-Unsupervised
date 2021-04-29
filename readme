@@ -1,0 +1,9 @@
+1、运行base模型
+python english.py --base=en/tr/el
+选择训练什么语言训练base模型并保存
+
+2、迁移学习
+python arbic/hindi/greek/danish/en/turkish.py --load_model=0
+其中，--load_model表示是否加载预训练的分类模型，0为不加载，1为加载
+不加载的模型作为对比模型
+该文件训练的模型不保存，只观察测试结果
