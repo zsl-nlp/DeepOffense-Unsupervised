@@ -3,7 +3,7 @@
 
 ## 1.代码结构
 
-    `│  arbic.py
+    │  arbic.py
     │  danish.py
     │  english.py
     │  greek.py
@@ -82,11 +82,11 @@
      Keras==2.3.1
      tensorflow-gpu==1.14.0
      tqdm==4.54.1
-    `
+   
 
 ## 3.运行
 
-    `
+   
     run run.sh
-    `
+    
 =======
