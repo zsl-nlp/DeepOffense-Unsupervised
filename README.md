@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # DeepOffense-Unsupervised
-
-
 
 
 ## 1.代码结构
@@ -90,5 +87,3 @@ bert4keras==0.9.8
 
 `run run.sh`
 =======
-# DeepOffense-Unsupervised
->>>>>>> 440d58934e7f75283d21b8c37ebf8276e3172f71
