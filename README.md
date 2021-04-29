@@ -72,7 +72,8 @@
                 dictionary.py
                 loader.py
                 utils.py
-                __init__.py`
+                __init__.py
+                `
 
 ## 2.依赖库
 `
@@ -85,5 +86,7 @@ bert4keras==0.9.8
 
 ## 3.运行
 
-`run run.sh`
+`
+run run.sh
+`
 =======
